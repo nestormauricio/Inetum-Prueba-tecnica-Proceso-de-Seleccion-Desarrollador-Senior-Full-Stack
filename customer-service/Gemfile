@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+gem 'rails', '~>7.1'
+gem 'pg'
+gem 'puma'
+gem 'bunny'
+gem 'rspec-rails', group: [:development, :test]
+gem 'factory_bot_rails', group: [:development, :test]

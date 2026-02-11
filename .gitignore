@@ -1,0 +1,17 @@
+# Rails
+log/
+tmp/
+*.log
+node_modules/
+.bundle/
+vendor/bundle
+db/*.sqlite3
+.env
+
+# Node
+.next/
+out/
+
+# System
+.DS_Store
+Thumbs.db
